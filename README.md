@@ -30,39 +30,39 @@ This is a Informational bot application developoed for education related to give
 
 ##HOME PAGE:
 
-               ![image](https://user-images.githubusercontent.com/114687544/193277292-b5b5a59e-66e8-4a54-aace-5d92c9d8b3c3.png)
+               
+![image](https://user-images.githubusercontent.com/114687544/193281487-a32dcaa3-c81f-4354-9733-83ba82d5287f.png)
 
    
 
                               
   ##MIDDLE PAGES:
-     
+               
+               
+              
+![image](https://user-images.githubusercontent.com/114687544/193284888-3729b4b6-3582-431a-b2ca-d54c421f7a32.png)
+
+![image](https://user-images.githubusercontent.com/114687544/193285874-00085525-03f3-4aee-9807-6e54f0873fa3.png)
+
+![image](https://user-images.githubusercontent.com/114687544/193286110-3ef3ee70-c372-4948-b7f7-b5cf18c751b2.png)
+
+
+![image](https://user-images.githubusercontent.com/114687544/193286338-c23a4d3c-c012-4f77-b3f4-e5f6bd5a5866.png)
+
+![image](https://user-images.githubusercontent.com/114687544/193286483-4775baa3-e441-4350-9994-5e36ebe7e728.png)
+
+   ![image](https://user-images.githubusercontent.com/114687544/193288094-09d96739-ce86-4fc0-a2ec-329357efec01.png)
+
+
+![image](https://user-images.githubusercontent.com/114687544/193288547-5315692e-e2a4-40f2-8503-536df09be8bb.png)
+
+
+
           
-          ![image](https://user-images.githubusercontent.com/114687544/193277771-e78f2c22-459c-4820-9cfc-7e2bb2f3897c.png)
-              
-              
-              ![image](https://user-images.githubusercontent.com/114687544/193278291-35ad2c7b-bdd7-4af5-8c7f-d0b89dc90674.png)
- 
- 
-                     ![image](https://user-images.githubusercontent.com/114687544/193278535-7e9d0ab9-c6a1-47cd-9e5e-090e63e51b0f.png)
-  
-  
-                          ![image](https://user-images.githubusercontent.com/114687544/193278744-9c54c634-e1f7-4096-9b99-52de7ab40e22.png)
-
-                                 
-                                 
-                      ![image](https://user-images.githubusercontent.com/114687544/193279174-b4489ebc-2fc6-48e1-b40b-13ebd315a85e.png)
-
+     ###CONTACT PAGE:                                  
                         
-  
-                                                
-                        
-            ###CONTACT PAGE: 
-            
-            
-                    
-           ![image](https://user-images.githubusercontent.com/114687544/193280253-3f7ce2f3-9f11-4c6f-92cb-08484de59dc0.png)
-           
+![image](https://user-images.githubusercontent.com/114687544/193287794-7c31c6e5-21be-4371-b583-100c8f045cbd.png)
+   
 
 
 ##final:

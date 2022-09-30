@@ -30,16 +30,39 @@ This is a Informational bot application developoed for education related to give
 
 ##HOME PAGE:
 
-   ![image](https://user-images.githubusercontent.com/114687544/193104310-2ec35dd9-fed5-4ec4-b5a4-1f0e9dbfb492.png)
+               ![image](https://user-images.githubusercontent.com/114687544/193277292-b5b5a59e-66e8-4a54-aace-5d92c9d8b3c3.png)
+
+   
 
                               
-  ##MIDDLE PAGE:
-  ![image](https://user-images.githubusercontent.com/114687544/193104617-6df5f366-87a8-4af2-927f-f8a113ba85bb.png)
+  ##MIDDLE PAGES:
+     
+          
+          ![image](https://user-images.githubusercontent.com/114687544/193277771-e78f2c22-459c-4820-9cfc-7e2bb2f3897c.png)
+              
+              
+              ![image](https://user-images.githubusercontent.com/114687544/193278291-35ad2c7b-bdd7-4af5-8c7f-d0b89dc90674.png)
+ 
+ 
+                     ![image](https://user-images.githubusercontent.com/114687544/193278535-7e9d0ab9-c6a1-47cd-9e5e-090e63e51b0f.png)
+  
+  
+                          ![image](https://user-images.githubusercontent.com/114687544/193278744-9c54c634-e1f7-4096-9b99-52de7ab40e22.png)
 
+                                 
+                                 
+                      ![image](https://user-images.githubusercontent.com/114687544/193279174-b4489ebc-2fc6-48e1-b40b-13ebd315a85e.png)
 
-##BOTTOM PAGE:
-![image](https://user-images.githubusercontent.com/114687544/193105342-0e005e63-2cce-4f4d-baa0-650c0cbedecc.png)
-
+                        
+  
+                                                
+                        
+            ###CONTACT PAGE: 
+            
+            
+                    
+           ![image](https://user-images.githubusercontent.com/114687544/193280253-3f7ce2f3-9f11-4c6f-92cb-08484de59dc0.png)
+           
 
 
 ##final:
